@@ -8,3 +8,8 @@ build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
+.idea
+.idea/libraries/
+navigation_bar.iml
+navigation_bar.iml
+pubspec.lock
